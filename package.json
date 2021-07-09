@@ -1,0 +1,28 @@
+{
+  "name": "expensemanager",
+  "version": "1.0.0",
+  "description": "Expense manager written in NodeJS,Express and VueJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kernelshreyak@github.com/kernelshreyak/expensemanager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kernelshreyak/expensemanager/issues"
+  },
+  "homepage": "https://github.com/kernelshreyak/expensemanager#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "sqlite3": "^5.0.2"
+  }
+}
