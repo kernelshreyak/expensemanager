@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/kernelshreyak/expensemanager#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "knex": "^0.95.8",
     "lodash": "^4.17.21",
     "sqlite3": "^5.0.2"
   }
